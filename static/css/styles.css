@@ -1,0 +1,53 @@
+/* Card Section */
+
+.card-img {
+  height: 450px;
+}
+
+.card {
+  height: 450px;
+}
+
+.intro {
+  padding-top: 200px;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.greeting {
+  font-size: 2.5rem;
+  font-family: 'Montserrat, sans-serif';
+  font-weight: bolder;
+}
+
+/* main content  */
+
+.heading {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.cafe-img {
+  width: 450px;
+  height: 300px;
+}
+
+.cafes {
+  padding-top: 20px;
+}
+
+.row-inner {
+  padding-bottom: 20px;
+}
+
+/* Footer */
+
+.footer {
+  margin-top: 50px;
+  background-color: #66BFBF;
+}
+
+.footer-container {
+  text-align: center;
+  padding: 50px;
+}
